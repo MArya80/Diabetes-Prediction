@@ -5,17 +5,17 @@ The Dataset contains inforamtion about each patient as <b>dataset columns</b>:
 <ol>
   <li>Pregnancies</li>
 <br>
-  <i>Glucose</i>
+  <li>Glucose</li>
 <br>
-  <i>BloodPressure</i>
+  <li>BloodPressure</li>
 <br>
-  <i>SkinThickness</i>
+  <li>SkinThickness</li>
 <br>
-  <i>Insulin</i>
+  <li>Insulin</li>
 <br>
-  <i>BMI</i>
+  <li>BMI</li>
 <br>  
-  <i>DiabetesPedigreeFunction</i>
+  <li>DiabetesPedigreeFunction</li>
 <br>
-  <i>Age Outcome</i>
+  <li>Age Outcome</li>
 </ol>
