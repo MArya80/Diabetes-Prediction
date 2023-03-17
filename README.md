@@ -4,18 +4,27 @@ The Dataset contains inforamtion about each patient as <b>dataset columns</b>:
 
 <ol>
   <li>Pregnancies</li>
-<br>
   <li>Glucose</li>
-<br>
   <li>BloodPressure</li>
-<br>
   <li>SkinThickness</li>
-<br>
   <li>Insulin</li>
-<br>
   <li>BMI</li>
-<br>  
   <li>DiabetesPedigreeFunction</li>
-<br>
   <li>Age Outcome</li>
 </ol>
+<br>
+Algorithms that have been used:
+<ul>
+  <li>LogisticRegression</li>
+  <li>LogisticRegression</li>
+  <li>DecisionTreeClassifier</li>
+  <li>RandomForestClassifier</li>
+  <li>SVC</li>
+  <li>GaussianNB</li>
+  <li>KNeighborsClassifier</li>
+  <li>GradientBoostingClassifier</li>
+  <li>MLPClassifier</li>
+  <li>AdaBoostClassifier</li>
+  <li>ExtraTreesClassifier</li>
+  <li>XGBClassifier</li>
+ </ul> 
