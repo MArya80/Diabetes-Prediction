@@ -30,4 +30,5 @@ The Dataset contains inforamtion about each patient as <i>dataset columns</i>:
   <li>ExtraTreesClassifier</li>
   <li>XGBClassifier</li>
  </ul> 
-![download](https://user-images.githubusercontent.com/92305900/225892342-b49aad87-6ae5-4c6b-8104-037f81358a8d.png)
+ 
+![image](https://user-images.githubusercontent.com/92305900/225892342-b49aad87-6ae5-4c6b-8104-037f81358a8d.png)
