@@ -1,7 +1,8 @@
 # Diabetes-Prediction
 The objective of this Project is to data visualization and training machine learning models to predict whether a person has diabetes or not.
-The Dataset contains inforamtion about each patient as <b>dataset columns</b>:
+The Dataset contains inforamtion about each patient as <i>dataset columns</i>:
 
+<b>Columns</b>
 <ol>
   <li>Pregnancies</li>
   <li>Glucose</li>
@@ -13,7 +14,8 @@ The Dataset contains inforamtion about each patient as <b>dataset columns</b>:
   <li>Age Outcome</li>
 </ol>
 <br>
-Algorithms that have been used:
+<b>Algorithms that have been used:</b>
+<br><br>
 <ul>
   <li>LogisticRegression</li>
   <li>LogisticRegression</li>
@@ -28,3 +30,4 @@ Algorithms that have been used:
   <li>ExtraTreesClassifier</li>
   <li>XGBClassifier</li>
  </ul> 
+![download](https://user-images.githubusercontent.com/92305900/225892342-b49aad87-6ae5-4c6b-8104-037f81358a8d.png)
